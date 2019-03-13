@@ -15,14 +15,15 @@ When this is done using the find_species.py script to generate a list of species
 
 python find_species.py tsv_of_intrest.tsv file_for_all_names outputfile.txt
 
-The outputfile includes number of proteins from each sepcies as well as any species seen in the fasta files that was not found in the tsv. 
+The outputfile includes a simple newline seperated list with one entery for each sepcies found as well as any species seen in the fasta files that was not found in the tsv. 
 Eg:
 
-###Species found###
-2995 Sulfolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2)    SULSO
-1602 Korarchaeum cryptofilum (strain OPF8)      KORCO
-3853 Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl)   CHLAA
+Species found
 
+Sulfolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2)    SULSO
+Korarchaeum cryptofilum (strain OPF8)      KORCO
+Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl)   CHLAA
 
-### Species not found ###
+Species not found
+
 Bos taurus (Bovine)     BOVIN
