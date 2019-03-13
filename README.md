@@ -22,7 +22,7 @@ Species found
 
 Sulfolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2)    SULSO
 Korarchaeum cryptofilum (strain OPF8)      KORCO
-Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl)   CHLAA
+hloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl)   CHLAA
 
 Species not found
 
